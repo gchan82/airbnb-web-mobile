@@ -1,8 +1,6 @@
 .idea/
 .vscode/
 node_modules/
-packages/server/node_modules/
-packages/web/node_modules/
 build/
 temp/
 *.log
